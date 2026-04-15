@@ -64,12 +64,4 @@ var products = [
     }
 ];
 
-const SelfServiceMachine = {
-    data() {
-        return{
-            message: "Hello World!"
-        }
-    }
-};
 
-Vue.createApp(SelfServiceMachine).mount('#app');
