@@ -72,4 +72,4 @@ const SelfServiceMachine = {
     }
 };
 
-Vue.createApp(SelfServiceMachine).mount('#appp');
+Vue.createApp(SelfServiceMachine).mount('#app');
